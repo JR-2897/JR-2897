@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JR-2897
 - 👀 I’m interested in make Video Games
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning IoT
 - 📫 How to reach me jean.ragueneau.pro@gmail.com
 
 <!---
