@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JR-2897
 - 👀 I’m interested in make Video Games
-- 🌱 I’m currently learning IoT
+- 🌱 I’m currently learning Web Service
 - 📫 How to reach me jean.ragueneau.pro@gmail.com
 
 <!---
